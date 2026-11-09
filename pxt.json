@@ -1,30 +1,30 @@
 {
     "name": "rematch-car-v4b",
-    "description": "",
+    "version": "0.4.0",
+    "description": "Race Arena V4B - huge MakeCode Arcade car racer: 9 tracks, boss race, nitro, 12-car garage, upgrades, weather, lap records, drift/time trial/demolition/championship/endless modes and a 1105-item stacking shop",
     "dependencies": {
-        "core": "*",
-        "radio": "*",
-        "microphone": "*",
-        "neopixel": "github:microsoft/pxt-neopixel#v0.7.6",
-        "pxt-kitronik-servo-lite": "github:kitronikltd/pxt-kitronik-servo-lite#v1.0.9",
-        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.6",
-        "pxt-kitronik-motor-driver": "github:kitronikltd/pxt-kitronik-motor-driver#v0.0.8",
-        "datalogger": "*"
+        "device": "*",
+        "arcade-mini-menu": "github:riknoll/arcade-mini-menu#v0.1.0"
     },
     "files": [
-        "main.blocks",
+        "images.g.jres",
+        "images.g.ts",
+        "sounds.ts",
+        "tracks.ts",
+        "upgrades.ts",
+        "garage.ts",
+        "shop.ts",
+        "player.ts",
+        "nitro.ts",
+        "weather.ts",
+        "laptimer.ts",
+        "rivals.ts",
+        "boss.ts",
+        "powerups.ts",
+        "modes.ts",
+        "hud.ts",
         "main.ts",
         "README.md"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
-    "targetVersions": {
-        "target": "9.0.12",
-        "targetId": "microbit"
-    },
-    "supportedTargets": [
-        "microbit"
-    ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }

@@ -1,0 +1,27 @@
+{
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    },
+    "carBase": {
+        "data": "hwQQABAAAAAAAPD//w8AAAAALyIi8gAAAP8iIiIi/wAA/yIiIiL/AAD/IiIiIv8AAP8imZki/wAAAJKZmSkAAAAAkpmZKQAAAACSmZkpAAAAACKZmSIAAAD/IiIiIv8AAP8iIiIi/wAA/yISISL/AAD/LxER8v8AAADw//8PAAAAAAAAAAAAAA==",
+        "displayName": "carBase"
+    },
+    "bossCar": {
+        "data": "hwQYABgAAAAAAP//////////AAAA8CIiIiIiIiIiDwAALyIiIiIiIiIi8gAAL1IlIiIiIiIl8gD/L1Il/y/y/yIl8v//LyIiXy/y9SIi8v//LyIi/y/y/yIi8v//LyIiIiIiIiIi8v//LyIiIiIiIiIi8v//LyIiIiIiIiIi8v8ALyIimZmZmSIi8gAALyKSmZmZmSki8gAALyKZmZmZmZki8gAALyKZmZmZmZki8gD/LyKZmZmZmZki8v//LyKZmZmZmZki8v//LyKZmZmZmZki8v//LyKSmZmZmSki8v//LyIimZmZmSIi8v//LyIiIiIiIiIi8v8ALyIiIiIiIiIi8gAALyISISIiEiEi8gAA8CISEfEfESEiDwAAAP//////////AAA=",
+        "displayName": "bossCar"
+    },
+    "trophy": {
+        "data": "hwQMAAwAAABQVQAAAAAAAFAABQAAAAAAVVVQAAAAAABVVVUFAO4AAFVVVVUA7gAAVVVVVVXuAABVVVVVVe4AAFVVVVUA7gAAVVVVBQDuAABVVVAAAAAAAFAABQAAAAAAUFUAAAAAAAA=",
+        "displayName": "trophy"
+    },
+    "missile": {
+        "data": "hwQKAAYAAAAAEQAAACIAAABVAAAgVQIAIFUCACBVAgAgVQIAAFUAAABVAAAARAAA",
+        "displayName": "missile"
+    },
+    "nitroCan": {
+        "data": "hwQIAAgAAADw//8Pj4iI+I8RgfGPgYHxj4GB8Y+BEfGPiIj48P//Dw==",
+        "displayName": "nitroCan"
+    }
+}
